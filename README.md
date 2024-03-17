@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Anand Singh
 
+I am a software engineer based in the greater Philadelphia area with freelance and information techonology experience. I'm currently on the look out for a role in backend development or devops, ideally writing Go or Python. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+
+- 🔭 I’m currently working on [Mailbox](https://github.com/Anand-S23/mailbox), an email saas platform
+- 🌱 I’m currently learning Rust and machine learning
+- 📫 How to reach me: [anandsroopsingh23@gmail.com](mailto:anandsroopsingh23@gmail.com)
+
+  
 <!--
 **Anand-S23/Anand-S23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
