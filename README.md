@@ -1,6 +1,6 @@
 ### Hi, I'm Anand Singh
 
-I am a software engineer based in the greater Philadelphia area with freelance and information techonology experience. I'm currently on the look out for a role in backend development or devops, ideally writing Go or Python. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+I am a software engineer based in the greater Philadelphia area with freelance and information techonology experience. I'm currently on the look out for a role in backend development or devops, ideally writing Go or Python. I'm looking to bring my skills to a tech company with global reach. If you're hiring, let's chat!
 
 - 🔭 I’m currently working on [Mailbox](https://github.com/Anand-S23/mailbox), an email saas platform
 - 🌱 I’m currently learning Rust and machine learning
